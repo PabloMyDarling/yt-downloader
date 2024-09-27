@@ -25,4 +25,11 @@ If it still didn't work, try reinstalling Python, and tick the "Add to PATH" box
 This section will show you how to download YT Downloader itself. (if you already have everything downloaded)  
 
 **Step 1**: Click *Code* to show the following menu.  
-![Step 1](assets/step1.png)
+![Step 1](assets/step1.png)  
+**Step 2**: Click on *Download ZIP* in the menu you just opened.  
+**Step 3**: A ZIP file should be downloading, extract it to the place you want it to be.
+
+Now all that's left is to run it. You can run it by opening the Terminal in the folder you extracted and typing one of the commands:  
+
+``python3 script.py``  
+``python script.py``
