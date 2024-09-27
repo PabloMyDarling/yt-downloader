@@ -31,5 +31,5 @@ This section will show you how to download YT Downloader itself. (if you already
 
 Now all that's left is to run it. You can run it by opening the Terminal in the folder you extracted and typing one of the commands:  
 
-``python3 script.py``  
-``python script.py``
+``python3 script.pyw``  
+``python script.pyw``
