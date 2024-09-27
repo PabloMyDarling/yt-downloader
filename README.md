@@ -25,4 +25,4 @@ If it still didn't work, try reinstalling Python, and tick the "Add to PATH" box
 This section will show you how to download YT Downloader itself. (if you already have everything downloaded)  
 
 **Step 1**: Click *Code* to show the following menu.  
-![Step 1](assets/step1.jpg)
+![Step 1](assets/step1.png)
