@@ -11,7 +11,7 @@ customtkinter
 pytube
 ```
 
-To download these modules, you can download the modules by typing the following in the Terminal:  
+You can download the modules by typing the following in the Terminal:  
 
 ``pip3 install customtkinter``  
 ``pip3 install pytube``  
